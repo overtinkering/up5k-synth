@@ -32,3 +32,4 @@
 ##TODO
 
 * Add external comparator for baterry low-voltage cutoff (tie to mcu)
+  consider this:2.7V to 19 V 0.125A to 2A 89mOhm eFuse with Accurate Current Monitor, Fast Overvoltage Protection https://www.digikey.ca/en/products/detail/texas-instruments/TPS259621DDAR/10445382 (it was a 20 cents cheaper on texas)
